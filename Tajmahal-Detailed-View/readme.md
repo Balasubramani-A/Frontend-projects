@@ -28,13 +28,10 @@ This project displays a detailed view of the Taj Mahal using a Bootstrap-based i
 
 ## 📸 Screenshot
 
-![Taj Mahal](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-c1-img.png)
+
+![Screenshot 2025-04-12 222628](https://github.com/user-attachments/assets/0e3c9503-bcdd-400f-b369-84b452c3d47f)
 
 ---
 
-## 🔗 Live Demo
 
-[View Live Project](#) <!-- Replace with your live link -->
-
----
 
